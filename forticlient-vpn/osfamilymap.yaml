@@ -1,0 +1,11 @@
+# -*- coding: utf-8 -*-
+# vim: ft=yaml
+
+---
+Debian:
+  pkg:
+    filename: FortiClientFullVPNInstaller_6.4.0.0851.deb
+
+RedHat:
+  pkg:
+    filename: FortiClientFullVPNInstaller_6.4.0.0851.rpm
