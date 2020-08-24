@@ -1,0 +1,5 @@
+forticlient-vpn:
+  credential:
+    server: 172.1.1.1
+    certificate: mycert.p12
+    certpasswd: abcde12345
