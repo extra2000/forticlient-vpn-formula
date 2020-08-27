@@ -1,5 +1,7 @@
 # forticlient-vpn-formula
 
+**DEPRECATED!** Please use https://github.com/extra2000/openfortivpn-formula because OpenFortiVPN is open source and support ARM.
+
 SaltStack Formula for FortiClient VPN client
 
 
